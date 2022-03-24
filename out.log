@@ -11972,3 +11972,25 @@ Caused by: java.net.ConnectException: Operation timed out (Connection timed out)
 2022-03-23 21:25:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-03-23 21:25:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-03-23 21:25:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-23 21:28:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-23 21:28:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-03-23 21:28:37 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-03-23 21:28:37 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :/Users/nikolaevld/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1621
+2022-03-23 21:33:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-23 21:33:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-23 21:33:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-03-23 21:33:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-23 21:33:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-03-24 10:03:01 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-24 10:03:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-24 10:03:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-24 10:03:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-03-24 10:03:02 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-24 21:13:50 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-24 21:13:50 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-24 21:13:50 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-24 21:13:50 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-24 21:13:50 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-24 21:13:50 INFO  ApacheHttpClient.startGA(36) - GAService started.
